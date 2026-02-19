@@ -173,4 +173,7 @@ footer p {
   .section-2 .content {
     flex-direction: column;
   }
+  .hero-text h1 {
+    font-size: var(--fs-300);
+  }
 }
